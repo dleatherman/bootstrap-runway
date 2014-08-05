@@ -12,7 +12,7 @@
   "preprocessorScriptOutput": "public/js",
   "preprocessorStyleOutput": "public/css",
   "ignoreDir": ["public/css/less/bootstrap"],
-  "projectDescription": "Landing Page for any bootstrap site",
+  "projectDescription": "Landing page for any bootstrap-based site",
   "projectName": "app-landing",
   "publishedId": null,
   "serverHostname": null,
