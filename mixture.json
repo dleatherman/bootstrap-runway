@@ -1,0 +1,26 @@
+{
+  "convertHtml": {
+    "relativePaths": false
+  },
+  "debug": false,
+  "domain": null,
+  "lintScripts": false,
+  "modelSource": null,
+  "preprocessorLocations": [
+    "public"
+  ],
+  "preprocessorScriptOutput": "public/js",
+  "preprocessorStyleOutput": "public/css",
+  "ignoreDir": ["public/css/less/bootstrap"],
+  "projectDescription": "Landing Page for any bootstrap site",
+  "projectName": "app-landing",
+  "publishedId": null,
+  "serverHostname": null,
+  "serverPort": null,
+  "simpleModePartnerServer": null,
+  "templateDefaultLayout": "layout",
+  "templateDefaultPage": "index",
+  "templateDirectory": "templates",
+  "type": "mixture",
+  "useCompass": false
+}
